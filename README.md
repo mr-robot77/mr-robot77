@@ -39,7 +39,7 @@
 
 - 📫 How to reach me [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abednezhad756@gmail.com)
 
-- 📄 Know about my experiences [![Linkedin]](https://www.linkedin.com/in/saleh-abdnjd/)
+- 📄 Know about my experiences [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-abdnjd/)
 
 
 # 💻 Tech Stack:
