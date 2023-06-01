@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 
-- 🎯 Portfolio website: [Portfolio](https://mr-robot77.github.io/)
+🎯 my Portfolio website: [Portfolio](https://mr-robot77.github.io/)
 
 🔭 I’m currently working on<br>
 👯 I’m looking to collaborate on<br>
