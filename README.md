@@ -17,7 +17,7 @@
 
 🛠 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Artificial Intelligence ✍️
+- Artificial Intelligence :robot:
 - Machine Learning 🧐
 - Data Science 😬
 
