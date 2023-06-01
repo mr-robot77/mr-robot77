@@ -41,11 +41,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mr-robot77&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mr-robot77&theme=default&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mr-robot77&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-robot77&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-robot77&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=donut)](https://github.com/mr-robot77/github-readme-stats)
 
 ### My Last Certification(s)
 [![Python for Data Science and AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](https://www.credly.com/badges/a0ba2055-4b97-47f8-a0d8-2b17d8e8a958/public_url)
