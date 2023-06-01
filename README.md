@@ -15,7 +15,7 @@
 💬 Ask me about<br>
 ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
-💻 **Things I love**
+🛠 **Things I love**
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Artificial Intelligence ✍️
 - Machine Learning 🧐
@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/-Saleh.Abednezhad-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/saleh-abdnjd/)](https://linkedin.com/in/saleh-abdnjd/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8879665/mr-robot) 
 
-# 💻 Tech Stack:🛠
+# 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
