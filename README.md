@@ -15,7 +15,8 @@
 ⚡ Fun fact: **I think I am Jesus of Projects 🤓**
 
 🛠 **Things I love**
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Programming  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- Python :man_technologist:
 - Artificial Intelligence :robot:
 - Machine Learning 🧐
 - Data Science 😬
