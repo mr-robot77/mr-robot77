@@ -85,6 +85,8 @@
 
 <img src="https://raw.githubusercontent.com/mr-robot77/mr-robot77/output/github-contribution-grid-snake.svg" alt="snake" height="80%" width="100%"/>
 
+[![Saleh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-robot77&bg_color=ffffff&color=000000&line=58ad66&point=23d160&area=true&hide_border=true)](https://github.com/mr-robot77/github-readme-activity-graph)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mr-robot77&icon=0&color=0)](https://visitcount.itsvg.in)
 
