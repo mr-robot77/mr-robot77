@@ -9,7 +9,7 @@
 
 🔭 I’m currently working on: Stock Market & Cryptocurrency Prediction Project with Machine Learning<br>
 👯 I’m looking to collaborate on: Open Source Projects<br>
-🤝 I’m looking for help with: getting proper Job for me in Data Science field<br>
+🤝 I’m looking for help with: getting a proper job for me in the Data Science field<br>
 🌱 I’m currently learning: Data Science<br>
 💬 Ask me about: Data Science or Machine Learning and Programming<br>
 ⚡ Fun fact: **I think I am Jesus of Projects 🤓**
@@ -20,6 +20,7 @@
 - Artificial Intelligence :robot:
 - Machine Learning 🧐
 - Data Science 😬
+- Data and Databases 📊
 
 ## 🌐 Socials: 
 <h3 align="left">Connect with me:</h3>
