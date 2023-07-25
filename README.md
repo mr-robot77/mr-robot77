@@ -21,6 +21,8 @@
 - Machine Learning 🧐
 - Data Science 😬
 - Data and Databases 📊
+- Algorithmic Trading
+- Quantitative Trading 
 
 ## 🌐 Socials: 
 <h3 align="left">Connect with me:</h3>
