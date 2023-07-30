@@ -45,7 +45,7 @@
 
 - 📄 Know about my experiences [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-abdnjd/)
 
-- my programming activity : [![QUERA]()](https://quera.org/profile/abdnjd777)
+- My Programming Activity : [![QUERA]()](https://quera.org/profile/abdnjd777)
 # 💻 Tech Stack:
 
 <h3 align="left">Languages and Tools:</h3>
