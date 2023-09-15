@@ -45,7 +45,8 @@
 
 - 📄 Know about my experiences [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saleh-abdnjd/)
 
-- My Programming Activity : [![Gitlab](https://img.shields.io/badge/Gitlab-D14836?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/saleh-abdnjd) [![QUERA]()](https://quera.org/profile/abdnjd777)
+- My Programming Activity : [![Gitlab](https://img.shields.io/badge/Gitlab-D14836?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/saleh-abdnjd) [![QUERA](https://avatars.githubusercontent.com/u/19687772?s=35&v=4)](https://quera.org/profile/abdnjd777)
+
 # 💻 Tech Stack:
 
 <h3 align="left">Languages and Tools:</h3>
