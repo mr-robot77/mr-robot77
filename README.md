@@ -91,6 +91,10 @@
 
 [![Saleh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-robot77&bg_color=ffffff&color=000000&line=58ad66&point=23d160&area=true&hide_border=true)](https://github.com/mr-robot77/github-readme-activity-graph)
 
+<h3 align="left"><a href="https://wakatime.com/@saleh_abdnjd" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime.svg" alt="saleh_abdnjd" height="30" width="30" /></a>
+ WakaTime Activity: <a href="https://wakatime.com/@88283eef-260f-4671-930b-58ef4b76f8f1"><img align="center" src="https://wakatime.com/badge/user/88283eef-260f-4671-930b-58ef4b76f8f1.svg" alt="Total time coded since Aug 6 2023" /></a> </h3>
+<img align="center" src="https://wakatime.com/share/@saleh_abdnjd/e8c0f3e5-262a-45c0-a506-675c1e830218.svg" alt="saleh_abdnjd" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mr-robot77&icon=0&color=0)](https://visitcount.itsvg.in)
 
