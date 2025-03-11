@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Saleh Abednezhad</h1>
-<h3 align="center">A passionate Data Scientist from Iran</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 
 # 💫 About Me:
