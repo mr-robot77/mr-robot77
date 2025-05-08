@@ -23,7 +23,9 @@
 - Data Science 😬
 - Data and Databases 📊
 - Algorithmic Trading
-- Quantitative Trading 
+- Quantitative Trading
+- Anomaly Detection
+- Fraud Detection 
 
 ## 🌐 Socials: 
 <h3 align="left">Connect with me:</h3>
