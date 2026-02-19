@@ -80,10 +80,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mr-robot77&theme=default&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=mr-robot77&theme=default&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-robot77&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=donut)](https://github.com/mr-robot77/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mr-robot77&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Last Certification(s)
-[![Python for Data Science and AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](https://www.credly.com/badges/a0ba2055-4b97-47f8-a0d8-2b17d8e8a958/public_url) [![What is Data Science?](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](https://www.credly.com/badges/4971ce64-6c9f-41d6-b358-0d07f312530a/public_url)
+[![Python for Data Science and AI](https://images.credly.com/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](https://www.credly.com/badges/a0ba2055-4b97-47f8-a0d8-2b17d8e8a958/public_url) [![What is Data Science?](https://images.credly.com/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](https://www.credly.com/badges/4971ce64-6c9f-41d6-b358-0d07f312530a/public_url)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mr-robot77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -100,7 +100,7 @@
 <img align="center" src="https://wakatime.com/share/@saleh_abdnjd/e8c0f3e5-262a-45c0-a506-675c1e830218.svg" alt="saleh_abdnjd" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mr-robot77&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=mr-robot77&color=0e75b6&style=flat)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
