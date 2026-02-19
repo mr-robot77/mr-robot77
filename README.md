@@ -86,7 +86,7 @@
 [![Python for Data Science and AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](https://www.credly.com/badges/a0ba2055-4b97-47f8-a0d8-2b17d8e8a958/public_url) [![What is Data Science?](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](https://www.credly.com/badges/4971ce64-6c9f-41d6-b358-0d07f312530a/public_url)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mr-robot77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy-tawny.vercel.app/?username=mr-robot77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 <h1 align="center"> 🐍 Snake Eating My Contribution 🐍 </h1>
