@@ -1,4 +1,4 @@
-[![generate animation](https://github.com/mr-robot77/mr-robot77/actions/workflows/main.yml/badge.svg)](https://github.com/mr-robot77/mr-robot77/actions/workflows/main.yml)
+[![generate animation](https://github.com/mr-robot77/mr-robot77/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/mr-robot77/mr-robot77/actions/workflows/main.yml)
 
 <img align="right" src="https://github.com/mr-robot77/mr-robot77/blob/main/developer.gif" alt="Coder GIF" width="420" height="330">
 
