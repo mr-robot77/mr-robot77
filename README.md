@@ -105,7 +105,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mr-robot77&theme=default&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=mr-robot77&theme=default&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mr-robot77&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mr-robot77&theme=default&hide_border=false&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Last Certification(s)
 [![Python for Data Science and AI](https://images.credly.com/size/110x110/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png)](https://www.credly.com/badges/a0ba2055-4b97-47f8-a0d8-2b17d8e8a958/public_url) [![What is Data Science?](https://images.credly.com/size/110x110/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png)](https://www.credly.com/badges/4971ce64-6c9f-41d6-b358-0d07f312530a/public_url)
